@@ -1,2 +1,1 @@
-# BankAccount
-bank account - getters and setters, constructors and overload.
+# Exercises about constructor and overload in java
